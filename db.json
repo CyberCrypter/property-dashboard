@@ -1,0 +1,169 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Luxury Plot",
+      "type": "Plot",
+      "price": 250000,
+      "location": "Pune",
+      "description": "A large plot of land available for development with excellent connectivity and modern amenities nearby.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=400&h=300&fit=crop",
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    {
+      "id": "2",
+      "name": "Industrial Shed",
+      "type": "Shed",
+      "price": 150000,
+      "location": "Mumbai",
+      "description": "Spacious industrial shed perfect for manufacturing or storage purposes with good road connectivity.",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400&h=300&fit=crop",
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    {
+      "id": "3",
+      "name": "Downtown Retail Store",
+      "type": "Retail Store",
+      "price": 350000,
+      "location": "Delhi",
+      "description": "Prime location retail store in the heart of the city with high foot traffic and excellent visibility.",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+      "lat": 28.7041,
+      "lng": 77.1025
+    },
+    {
+      "id": "4",
+      "name": "Residential Plot",
+      "type": "Plot",
+      "price": 180000,
+      "location": "Bangalore",
+      "description": "Beautiful residential plot in a peaceful neighborhood with all basic amenities available.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=400&h=300&fit=crop",
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    {
+      "id": "5",
+      "name": "Warehouse Shed",
+      "type": "Shed",
+      "price": 200000,
+      "location": "Chennai",
+      "description": "Large warehouse shed with loading dock and ample parking space for commercial use.",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400&h=300&fit=crop",
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    {
+      "id": "f563",
+      "name": "A big Store",
+      "type": "Retail Store",
+      "price": 200000,
+      "location": "Urma",
+      "description": "A very big store",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+      "lat": 55.4606,
+      "lng": 44.66889
+    },
+    {
+      "id": "71ae",
+      "name": "A plot",
+      "type": "Plot",
+      "price": 250000,
+      "location": "kolkata",
+      "description": "a plot",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=400&h=300&fit=crop",
+      "lat": 55.4606,
+      "lng": 86.270318
+    },
+    {
+      "id": "8",
+      "name": "Modern Apartment Complex",
+      "type": "Apartment",
+      "price": 450000,
+      "location": "Hyderabad",
+      "description": "Luxurious 3-bedroom apartment with modern amenities, swimming pool, and 24/7 security.",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400&h=300&fit=crop",
+      "lat": 17.3850,
+      "lng": 78.4867
+    },
+    {
+      "id": "9",
+      "name": "Family House",
+      "type": "House",
+      "price": 650000,
+      "location": "Ahmedabad",
+      "description": "Beautiful 4-bedroom family house with garden, garage, and modern kitchen.",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&h=300&fit=crop",
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    {
+      "id": "10",
+      "name": "Corporate Office Space",
+      "type": "Office",
+      "price": 800000,
+      "location": "Gurgaon",
+      "description": "Premium office space in a modern business district with conference rooms and parking.",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400&h=300&fit=crop",
+      "lat": 28.4595,
+      "lng": 77.0266
+    },
+    {
+      "id": "11",
+      "name": "Local Shop",
+      "type": "Shop",
+      "price": 120000,
+      "location": "Jaipur",
+      "description": "Well-located shop in a busy market area, perfect for retail business.",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    {
+      "id": "12",
+      "name": "Fine Dining Restaurant",
+      "type": "Restaurant",
+      "price": 300000,
+      "location": "Mumbai",
+      "description": "Elegant restaurant space with kitchen equipment and outdoor seating area.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop",
+      "lat": 19.0760,
+      "lng": 72.8777
+    },
+    {
+      "id": "13",
+      "name": "Boutique Hotel",
+      "type": "Hotel",
+      "price": 1200000,
+      "location": "Goa",
+      "description": "Charming boutique hotel near the beach with 15 rooms and restaurant.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop",
+      "lat": 15.2993,
+      "lng": 74.1240
+    },
+    {
+      "id": "14",
+      "name": "Large Warehouse",
+      "type": "Warehouse",
+      "price": 400000,
+      "location": "Pune",
+      "description": "Spacious warehouse with loading docks, office space, and security system.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    {
+      "id": "15",
+      "name": "Manufacturing Factory",
+      "type": "Factory",
+      "price": 900000,
+      "location": "Chennai",
+      "description": "Modern manufacturing facility with advanced machinery and worker facilities.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=300&fit=crop",
+      "lat": 13.0827,
+      "lng": 80.2707
+    }
+  ]
+}
