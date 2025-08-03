@@ -9,12 +9,14 @@
     "build": "vite build",
     "preview": "vite preview",
     "server": "json-server --watch db.json --port 5000",
+    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.7",
     "@heroicons/react": "^2.2.0",
     "axios": "^1.11.0",
+    "json-server": "^1.0.0-alpha.23",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
@@ -24,7 +26,6 @@
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.3.0",
-    "json-server": "^1.0.0-alpha.23",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.17",
     "vite": "^5.2.0"

@@ -64,8 +64,9 @@ export default function AddPropertyForm({ onAdded }) {
     e.preventDefault();
     setIsSubmitting(true);
     
+
     try {
-      await axios.post("http://localhost:5000/properties", {
+      await axios.post("https://property-dashboard-api-4ywm.onrender.com/properties", {
         ...form,
         price: parseFloat(form.price),
         lat: parseFloat(form.lat),
